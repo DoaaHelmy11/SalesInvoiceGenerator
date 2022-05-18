@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/shahd/Documents/NetBeansProjects/SalesInvoiceGenerator/src/com/sig/view/NewItemDialog.java</file>
+            <file>file:/C:/Users/shahd/Documents/NetBeansProjects/SalesInvoiceGenerator/src/com/sig/view/NewInvoiceDialog.java</file>
+            <file>file:/C:/Users/shahd/Documents/NetBeansProjects/SalesInvoiceGenerator/src/com/sig/model/Line.java</file>
+            <file>file:/C:/Users/shahd/Documents/NetBeansProjects/SalesInvoiceGenerator/src/com/sig/controller/Controller.java</file>
+            <file>file:/C:/Users/shahd/Documents/NetBeansProjects/SalesInvoiceGenerator/src/com/sig/model/AllLinesTableModel.java</file>
+            <file>file:/C:/Users/shahd/Documents/NetBeansProjects/SalesInvoiceGenerator/src/com/sig/view/SIGFrame.java</file>
+            <file>file:/C:/Users/shahd/Documents/NetBeansProjects/SalesInvoiceGenerator/src/com/sig/model/Invoice.java</file>
+            <file>file:/C:/Users/shahd/Documents/NetBeansProjects/SalesInvoiceGenerator/src/com/sig/model/AllInvoicesTableModel.java</file>
+        </group>
+    </open-files>
+</project-private>
